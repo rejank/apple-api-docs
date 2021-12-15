@@ -191,7 +191,7 @@
         <param name="expected">To be added.</param>
         <summary>
             Returns a constraint that tests whether the
-            actual value is greater than or equal to the suppled argument
+            actual value is greater than or equal to the supplied argument
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -218,7 +218,7 @@
         <param name="expected">To be added.</param>
         <summary>
             Returns a constraint that tests whether the
-            actual value is less than or equal to the suppled argument
+            actual value is less than or equal to the supplied argument
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -365,7 +365,7 @@
         <param name="expected">To be added.</param>
         <summary>
             Returns a constraint that tests whether the
-            actual value is greater than the suppled argument
+            actual value is greater than the supplied argument
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -392,7 +392,7 @@
         <param name="expected">To be added.</param>
         <summary>
             Returns a constraint that tests whether the
-            actual value is greater than or equal to the suppled argument
+            actual value is greater than or equal to the supplied argument
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -507,7 +507,7 @@
         <param name="expected">To be added.</param>
         <summary>
             Returns a constraint that tests whether the
-            actual value is less than the suppled argument
+            actual value is less than the supplied argument
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
@@ -534,7 +534,7 @@
         <param name="expected">To be added.</param>
         <summary>
             Returns a constraint that tests whether the
-            actual value is less than or equal to the suppled argument
+            actual value is less than or equal to the supplied argument
             </summary>
         <returns>To be added.</returns>
         <remarks>To be added.</remarks>
